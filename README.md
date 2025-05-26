@@ -1,6 +1,6 @@
 # single-bulkinjection
 
-##[push fails to remote repo solution as below for info refer explanation.md]
+## push fails to remote repo solution as below for info refer explanation.md
 
 ```
 Deepak.Barik@DIGI-GI-L0743 MINGW64 ~/Project/spring_boot/go_spring_poc/boot_annoconfig_proj5 (master)
